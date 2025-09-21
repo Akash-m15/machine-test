@@ -1,0 +1,1 @@
+{"root":["./src/db.ts","./src/index.ts","./src/middleware/verifyadmin.ts","./src/models/model.ts","./src/routes/agent.ts","./src/routes/auth.ts","./src/routes/task.ts","./src/utils/auth.ts","./src/utils/ratelimiter.ts","./src/utils/zod_validation.ts"],"version":"5.9.2"}
