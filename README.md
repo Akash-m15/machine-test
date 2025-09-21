@@ -1,6 +1,4 @@
-Here’s a polished **README.md** based on your detailed developer brief:
 
-````markdown
 # MERN Task Management Application
 
 ## **Objective**
