@@ -148,5 +148,4 @@ The app should be running at `http://localhost:3000`.
 * `Agent.tsx` → View tasks for a specific agent
 * `EditAgent.tsx` → Edit agent information
 
-Do you want me to do that next?
-```
+
