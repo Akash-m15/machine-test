@@ -27,7 +27,7 @@ This project is a **MERN stack** application designed to manage agents and their
 - Add new agents with the following details:
   - Name
   - Email
-  - Mobile number (with country code)
+  - Mobile number 
   - Password
 - Edit and delete agent details
 - Assign tasks to agents
