@@ -49,7 +49,7 @@ This project is a **MERN stack** application designed to manage agents and their
 ## **Technical Requirements**
 
 - **Backend**: Node.js, Express.js, MongoDB
-- **Frontend**: React.js 
+- **Frontend**: React.js , shadcn
 - **Authentication**: JWT with refresh tokens , Rate-Limiting
 - **Validation**: Input and CSV validation using Zod
 
