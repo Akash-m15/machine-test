@@ -217,6 +217,7 @@ export default function Dashboard() {
       await api.post(`/tasks/upload`, text, {
         headers: { "Content-Type": "text/plain" },
       });
+      alert("Upload Successful")
       setFile(null); // Clear file after upload
     } catch (err) {
       console.error(err);
